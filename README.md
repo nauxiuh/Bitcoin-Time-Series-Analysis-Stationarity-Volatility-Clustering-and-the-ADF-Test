@@ -1,0 +1,2 @@
+# Bitcoin-Time-Series-Analysis-Stationarity-Volatility-Clustering-and-the-ADF-Test
+This project examines the statistical properties of Bitcoin's price and return series. The focus is on three things that matter a lot in practice: whether the series is stationary (which determines what models you can apply to it), whether returns are truly independent (they are not), and how to formally confirm both with hypothesis testing.
