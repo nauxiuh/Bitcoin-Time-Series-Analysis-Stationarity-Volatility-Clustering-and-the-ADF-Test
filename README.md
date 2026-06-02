@@ -9,7 +9,7 @@ Understanding these properties is a prerequisite for any serious time series mod
 ```
 ├── FinancialDataAnalysis.ipynb             # Main analysis notebook
 └── data/
-    ├── bitcoin_data.csv                    # Bitcoin adjusted close prices
+    └── bitcoin_data.csv                    # Bitcoin adjusted close prices
 ```
 
 ## Analysis
