@@ -7,8 +7,9 @@ Understanding these properties is a prerequisite for any serious time series mod
 ## Repository Structure
 
 ```
-├── FinancialDataAnalysis2.ipynb   # Main analysis notebook
-└── bitcoin_data.csv               # Bitcoin adjusted close prices
+├── FinancialDataAnalysis.ipynb             # Main analysis notebook
+└── data/
+    ├── bitcoin_data.csv                    # Bitcoin adjusted close prices
 ```
 
 ## Analysis
